@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1512101812 source:c:\users\anderson\desktop\arvoreb+ final\bplustree.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"BPlusTree.hpp"
+	"Exceptions.hpp"
+	"InternalNode.hpp"
+	"LeafNode.hpp"
+	"Node.hpp"
+
+1508784902 c:\users\anderson\desktop\arvoreb+ final\bplustree.hpp
+	<tuple>
+	<vector>
+	"Definitions.hpp"
+	"Printer.hpp"
+
+1512515428 c:\users\anderson\desktop\arvoreb+ final\definitions.hpp
+
+1508770393 c:\users\anderson\desktop\arvoreb+ final\printer.hpp
+	<queue>
+
+1508771736 c:\users\anderson\desktop\arvoreb+ final\exceptions.hpp
+	<exception>
+	<string>
+	"Definitions.hpp"
+
+1508770365 c:\users\anderson\desktop\arvoreb+ final\internalnode.hpp
+	<queue>
+	<vector>
+	"Definitions.hpp"
+	"Node.hpp"
+
+1508770385 c:\users\anderson\desktop\arvoreb+ final\node.hpp
+	<string>
+	"Definitions.hpp"
+
+1508770375 c:\users\anderson\desktop\arvoreb+ final\leafnode.hpp
+	<tuple>
+	<utility>
+	<vector>
+	"Node.hpp"
+	"Record.hpp"
+
+1508770400 c:\users\anderson\desktop\arvoreb+ final\record.hpp
+	"Definitions.hpp"
+
+1508779051 source:c:\users\anderson\desktop\arvoreb+ final\exceptions.cpp
+	<sstream>
+	<string>
+	"Exceptions.hpp"
+	"Node.hpp"
+
+1508780771 source:c:\users\anderson\desktop\arvoreb+ final\internalnode.cpp
+	<iostream>
+	<sstream>
+	"Exceptions.hpp"
+	"InternalNode.hpp"
+
+1508773352 source:c:\users\anderson\desktop\arvoreb+ final\leafnode.cpp
+	<sstream>
+	"Exceptions.hpp"
+	"InternalNode.hpp"
+	"LeafNode.hpp"
+
+1512106223 source:c:\users\anderson\desktop\arvoreb+ final\main.cpp
+	<iostream>
+	<sstream>
+	"BPlusTree.hpp"
+	"Definitions.hpp"
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<omp.h>
+
+1508770176 source:c:\users\anderson\desktop\arvoreb+ final\node.cpp
+	"Node.hpp"
+
+1508779910 source:c:\users\anderson\desktop\arvoreb+ final\printer.cpp
+	<iostream>
+	"InternalNode.hpp"
+	"LeafNode.hpp"
+	"Node.hpp"
+	"Printer.hpp"
+
+1508770172 source:c:\users\anderson\desktop\arvoreb+ final\record.cpp
+	<string>
+	<sstream>
+	"Definitions.hpp"
+	"Record.hpp"
+
